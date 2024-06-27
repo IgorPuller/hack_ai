@@ -78,7 +78,7 @@ def get_assistant_response(prompt):
         st.write('Report doesn''t exist!')
 
 # Define a function to get assistant response
-def get_full_report_check(user_file):
+def get_full_report_check(user_file, industry):
 
     reports = {}
 
