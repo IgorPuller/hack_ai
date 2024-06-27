@@ -65,7 +65,8 @@ def get_assistant_response(prompt):
 
     if os.path.isfile(file_path):
         with open(file_path, 'r', encoding='utf-8') as file:
-            lines = file.readlines()    
+            full_text = file.read()
+            lines = full_text.split('\n')   
             for line in lines:
                 words = line.split()
                 line_placeholder = st.empty()
@@ -74,8 +75,10 @@ def get_assistant_response(prompt):
                     accumulated_line += word + " "
                     line_placeholder.markdown(accumulated_line.strip())
                     time.sleep(len(word)%3 / 10)
+            return full_text
     else:
         st.write('Report doesn''t exist!')
+        return ""
 
 # Define a function to get assistant response
 def get_full_report_check(user_file, industry):
@@ -93,7 +96,11 @@ def get_full_report_check(user_file, industry):
 
     if file_name in reports.keys():
         with open(reports[file_name], 'r', encoding='utf-8') as file:
-            lines = file.readlines()    
+            full_text = file.read()
+
+            lines = full_text.split('\n')
+        #with open(reports[file_name], 'r', encoding='utf-8') as file:
+        #   lines = file.readlines()    
             for line in lines:
                 words = line.split()
                 line_placeholder = st.empty()
@@ -102,8 +109,10 @@ def get_full_report_check(user_file, industry):
                     accumulated_line += word + " "
                     line_placeholder.markdown(accumulated_line.strip())
                     time.sleep(len(word)%3 / 10)
+            return full_text
     else:
         st.write('Report doesn''t exist!')
+        return ""
 
 def get_part_report_check(user_file):
 
@@ -120,7 +129,9 @@ def get_part_report_check(user_file):
 
     if file_name in reports.keys():
         with open(reports[file_name], 'r', encoding='utf-8') as file:
-            lines = file.readlines()    
+            #lines = file.readlines()    
+            full_text = file.read()
+            lines = full_text.split('\n')
             for line in lines:
                 words = line.split()
                 line_placeholder = st.empty()
@@ -129,5 +140,7 @@ def get_part_report_check(user_file):
                     accumulated_line += word + " "
                     line_placeholder.markdown(accumulated_line.strip())
                     time.sleep(len(word)%3 / 10)
+            return full_text
     else:
         st.write('Report doesn''t exist!')
+        return ""
