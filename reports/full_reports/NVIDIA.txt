@@ -1,0 +1,82 @@
+### 1. Governance ###
+### Board Oversight ###
+  **•	Current Status:** The report outlines how the Nominating and Corporate Governance Committee (NCGC) oversees policies and practices related to corporate responsibility, including climate change and human rights.
+  
+  **•	Recommendation:** While the Board's oversight of climate-related risks and opportunities is partially disclosed, more specific information on the frequency and nature of discussions could enhance transparency. For example, include details on how often the board reviews climate-related issues and whether there are specific climate expertise or training programs for board members. This could be integrated into the management update section so stakeholders clearly see how the board maintains oversight on climate risks and opportunities.
+
+### Management’s Role ###
+**•	Current Status:** The report mentions that the corporate responsibility reporting team updates the NCGC and uses their feedback to determine annual program direction.
+
+**•	Recommendation:** Strengthen this section by describing the specific management-level positions or committees directly responsible for climate-related issues. Provide details about how these positions collaborate with other parts of the organization and report on their activities. Clear reporting lines and explicit mention of roles (e.g., Chief Sustainability Officer) would enhance this section.
+
+**Score for Governance:** 43% (3/7 completed items)
+
+### 2. Strategy ###
+
+### Climate-Related Risks and Opportunities ###
+
+  **•	Current Status:** The report lists the identification of social and environmental impacts, stakeholder expectations, and reviews aligned with various frameworks such as GRI and TCFD.
+
+  **•	Recommendation:** To improve, include more detailed descriptions of the processes used to identify climate-related risks and opportunities over short, medium, and long term. Specify the criteria used to determine material risks and how the findings influence strategic decisions. Incorporating examples of identified risks (e.g., regulatory changes, resource availability) and opportunities (e.g., green innovation) would make this more robust.
+
+### Impact on Business Strategy and Financial Planning ###
+
+  **•	Current Status:** The report mentions goals related to reducing energy consumption in data centers and developing energy-efficient products, but lacks detailed strategic planning.
+
+  **•	Recommendation:** Provide a detailed analysis of how identified climate risks and opportunities specifically impact various aspects of the business, including operational costs, supply chain dynamics, product design, and market positioning. Explain any assumed scenarios and their impacts on financial planning and how these have shifted the company’s strategic priorities. Include illustrative case studies where possible.
+  
+### Resilience of Strategy ###
+
+  **•	Current Status:** Reference is made to accelerated computing's role in sustainable computing, aiming to reduce data center power consumption[6].
+  **•	Recommendation:** Expand on this by describing the resilience of your strategy under different climate scenarios, particularly a 2°C or lower scenario as recommended by TCFD. Detail the potential financial implications and how the company is positioned to adapt to these changes. Summarize any stress-testing or scenario analysis conducted to confirm strategic resilience.
+
+**Score for Strategy:** 17% (2/12 completed items)
+
+### 3. Risk Management ###
+### Risk Identification and Assessment Processes ###
+  **•	Current Status:** The corporate responsibility report indicates that stakeholders' feedback and assessments contribute to identifying risks.
+
+  **•	Recommendation:** Specify the methodologies used to identify and assess climate-related risks. Detailing the risk management frameworks and terminologies and explaining how climate risks are integrated into the broader enterprise risk management system would strengthen this section. Make clear distinctions between physical risks (like extreme weather) and transition risks (like regulatory changes).
+
+### Risk Management Processes ###
+  **•	Current Status:** The report touches upon the company’s strategies to reduce risks associated with AI and product use.
+
+  **•	Recommendation:** Provide a detailed process outline for managing climate-related risks, including mitigation, transfer, acceptance, or control strategies. This could include detailed case studies or examples of how specific climate risks are being managed. Show how these risk management processes align with overall strategic goals.
+
+### Integration into Overall Risk Management ###
+  **•	Current Status:** Risk assessments and stakeholder engagement processes are mentioned, but specific climate risk integration is not detailed.
+
+  **•	Recommendation:** Improve integration details by explicitly describing how climate-related risk management processes are embedded into the company’s broader risk management framework. Illustrate this with complementary processes or examples where climate-related risks have influenced broader corporate risk strategies.
+
+  **Score for Risk Management:** 25% (2/8 completed items)
+
+### 4. Metrics and Targets ###
+### Metrics Used ###
+  **•	Current Status:** Metrics on GHG emissions and renewable energy use among suppliers are disclosed.
+
+  **•	Recommendation:** Disclose additional relevant climate-related metrics used internally to measure and manage climate-related risks and opportunities, such as water usage, waste management, and energy efficiency improvements. Ensure these metrics align closely with strategic goals and risk management practices. Provide historical data and forward-looking projections for completeness.
+
+### GHG Emissions Reporting ###
+  **•	Current Status:** The report includes Scope 1, 2, and partially Scope 3 GHG emissions.
+
+  **•	Recommendation:** To enhance transparency, provide a detailed breakdown of Scope 3 emissions, which include categories such as purchased goods and services, business travel, employee commuting, and end-of-life treatment of sold products. Discuss how these emissions are calculated and managed.
+
+### Climate-Related Targets ###
+  **•	Current Status:** The report mentions targets for renewable energy use among suppliers and overall emissions reduction goals.
+
+  **•	Recommendation:** Increase specificity by outlining clear, time-bound targets for reducing GHG emissions, improving energy efficiency, and other relevant goals. These targets should have interim milestones and be backed by a clear roadmap. Incorporate an analysis of progress toward these targets and any adjustments made to stay on track.
+
+By improving in these areas, NVIDIA can significantly enhance its alignment with the TCFD recommendations, delivering clearer, more actionable, and comprehensive disclosures on climate-related risks and opportunities.
+
+**Score for Metrics and Targets:** 50% (7/14 completed items)
+
+**Final Score Calculation**
+
+  **•	Governance:** 43%
+
+  **•	Strategy:** 17%
+
+  **•	Risk Management:** 25%
+
+  **•	Metrics and Targets:** 50%
+**Final Score:** (43% + 17% + 25% + 50%) / 4 = 38%
